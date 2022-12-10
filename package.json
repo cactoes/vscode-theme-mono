@@ -1,11 +1,13 @@
 {
   "name": "mono-dark",
   "displayName": "mono-dark",
-  "description": "a dark mono colored theme",
-  "version": "0.0.1",
+  "description": "a dark mono color theme",
+  "publisher": "cxctxs",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.74.0"
   },
+  "repository": {"url": "https://github.com/cactoes/vscode-theme-mono"},
   "categories": [
     "Themes"
   ],
